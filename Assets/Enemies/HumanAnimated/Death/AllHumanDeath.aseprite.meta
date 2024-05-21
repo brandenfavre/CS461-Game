@@ -1,0 +1,1371 @@
+fileFormatVersion: 2
+guid: d12f84c972d6aba48b2c36501a923948
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: AllHumanDeath_Frame_0
+    originalName: 
+    pivot: {x: 0.41333327, y: -1.3939395}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 242
+      y: 920
+      width: 75
+      height: 99
+    spriteID: 2ef280dfdddef0c47b5059d904988fba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 81, y: 782}
+  - name: AllHumanDeath_Frame_1
+    originalName: 
+    pivot: {x: 0.4252873, y: -1.3142858}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 242
+      y: 468
+      width: 87
+      height: 105
+    spriteID: 4dffa0440e51bb74f82613de3ce999ca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 87, y: 330}
+  - name: AllHumanDeath_Frame_2
+    originalName: 
+    pivot: {x: 0.44791663, y: -1.2777778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 242
+      y: 4
+      width: 96
+      height: 108
+    spriteID: 8b00b591f8e7fb74a8cfb0570c935f2c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 93, y: -134}
+  - name: AllHumanDeath_Frame_3
+    originalName: 
+    pivot: {x: 0.45098037, y: -1.2432432}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 480
+      width: 102
+      height: 111
+    spriteID: e88d17c082b19f04588eecbc7b4ca355
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -20, y: 342}
+  - name: AllHumanDeath_Frame_4
+    originalName: 
+    pivot: {x: 0.45370367, y: -1.2432432}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 4
+      width: 108
+      height: 111
+    spriteID: 9e327009eeb15b54882e206407aceab5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -17, y: -134}
+  - name: AllHumanDeath_Frame_5
+    originalName: 
+    pivot: {x: 0.4561403, y: -1.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 114
+      height: 114
+    spriteID: e6c058882414518498132b725f32b729
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -136, y: -134}
+  - name: AllHumanDeath_Frame_6
+    originalName: 
+    pivot: {x: 0.4561403, y: -1.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 126
+      width: 114
+      height: 114
+    spriteID: 1c068610612020446b7a581c862a9414
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -136, y: -12}
+  - name: AllHumanDeath_Frame_7
+    originalName: 
+    pivot: {x: 0.25925913, y: -4.7000003}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 980
+      width: 27
+      height: 30
+    spriteID: 957845c6d5792584d94407d10224eb19
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -181, y: 839}
+  - name: AllHumanDeath_Frame_8
+    originalName: 
+    pivot: {x: 0.25925913, y: -5.3333335}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 161
+      y: 956
+      width: 27
+      height: 27
+    spriteID: b96d306f5991124499d8ec87ac013787
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -24, y: 812}
+  - name: AllHumanDeath_Frame_9
+    originalName: 
+    pivot: {x: 0.25925913, y: -5.111111}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 196
+      y: 956
+      width: 27
+      height: 27
+    spriteID: dd413095eb346cc42a6e15be0886fa8d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 11, y: 818}
+  - name: AllHumanDeath_Frame_10
+    originalName: 
+    pivot: {x: 0.25925913, y: -5.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 994
+      width: 27
+      height: 24
+    spriteID: 0b33f42f83a8b774d89e50b3b3588765
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -59, y: 856}
+  - name: AllHumanDeath_Frame_11
+    originalName: 
+    pivot: {x: 0.41333327, y: -1.3939395}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 346
+      y: 4
+      width: 75
+      height: 99
+    spriteID: 64cd75b82ab76f44680ac7195028d852
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 185, y: -134}
+  - name: AllHumanDeath_Frame_12
+    originalName: 
+    pivot: {x: 0.4252873, y: -1.3142858}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 242
+      y: 581
+      width: 87
+      height: 105
+    spriteID: 0d7eda581ef5f8645afa4a1af38a6233
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 87, y: 443}
+  - name: AllHumanDeath_Frame_13
+    originalName: 
+    pivot: {x: 0.44791663, y: -1.2777778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 242
+      y: 120
+      width: 96
+      height: 108
+    spriteID: 5242bd5adda3b404fbaabacdb724bbaa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 93, y: -18}
+  - name: AllHumanDeath_Frame_14
+    originalName: 
+    pivot: {x: 0.45098037, y: -1.2432432}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 599
+      width: 102
+      height: 111
+    spriteID: acc05065397f2bb4b9bc64a6bcea7c93
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -20, y: 461}
+  - name: AllHumanDeath_Frame_15
+    originalName: 
+    pivot: {x: 0.45370367, y: -1.2432432}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 123
+      width: 108
+      height: 111
+    spriteID: 3f1133c1fc57cc44cbb18ae32bdd8dbe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -17, y: -15}
+  - name: AllHumanDeath_Frame_16
+    originalName: 
+    pivot: {x: 0.4561403, y: -1.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 248
+      width: 114
+      height: 114
+    spriteID: bc39b3c7c10779342b6c2d54390bd968
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -136, y: 110}
+  - name: AllHumanDeath_Frame_17
+    originalName: 
+    pivot: {x: 0.4561403, y: -1.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 370
+      width: 114
+      height: 114
+    spriteID: 78a34da1a6018c543b0e9359052d9f85
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -136, y: 232}
+  - name: AllHumanDeath_Frame_18
+    originalName: 
+    pivot: {x: 0.25925913, y: -4.7000003}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 39
+      y: 980
+      width: 27
+      height: 30
+    spriteID: dc82434cd695f614eb0a84aaf77c2a2c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -146, y: 839}
+  - name: AllHumanDeath_Frame_19
+    originalName: 
+    pivot: {x: 0.25925913, y: -5.3333335}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 161
+      y: 991
+      width: 27
+      height: 27
+    spriteID: 44a837490f09132468d7fb89209c53a9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -24, y: 847}
+  - name: AllHumanDeath_Frame_20
+    originalName: 
+    pivot: {x: 0.25925913, y: -5.111111}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 196
+      y: 991
+      width: 27
+      height: 27
+    spriteID: 81d68e259c5485b4a95460781bf962cd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 11, y: 853}
+  - name: AllHumanDeath_Frame_21
+    originalName: 
+    pivot: {x: 0.25925913, y: -5.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 346
+      y: 465
+      width: 27
+      height: 24
+    spriteID: 58d0dfc2c17b9064a80b3b1d90429722
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 161, y: 327}
+  - name: AllHumanDeath_Frame_22
+    originalName: 
+    pivot: {x: 0.41333327, y: -1.3939395}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 346
+      y: 111
+      width: 75
+      height: 99
+    spriteID: dcaa6bf7a12315344b3521b187d7fd19
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 185, y: -27}
+  - name: AllHumanDeath_Frame_23
+    originalName: 
+    pivot: {x: 0.4252873, y: -1.3142858}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 242
+      y: 694
+      width: 87
+      height: 105
+    spriteID: 9b251e38535a35346838fb9c5aa4abe7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 87, y: 556}
+  - name: AllHumanDeath_Frame_24
+    originalName: 
+    pivot: {x: 0.44791663, y: -1.2777778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 242
+      y: 236
+      width: 96
+      height: 108
+    spriteID: 2fb05df2bded9de4182d3690cd757490
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 93, y: 98}
+  - name: AllHumanDeath_Frame_25
+    originalName: 
+    pivot: {x: 0.45098037, y: -1.2432432}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 718
+      width: 102
+      height: 111
+    spriteID: 22a761629d7b1b146b54fefbb700211f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -20, y: 580}
+  - name: AllHumanDeath_Frame_26
+    originalName: 
+    pivot: {x: 0.45370367, y: -1.2432432}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 242
+      width: 108
+      height: 111
+    spriteID: a98c5d7a224a913499c2309b0b7f3294
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -17, y: 104}
+  - name: AllHumanDeath_Frame_27
+    originalName: 
+    pivot: {x: 0.4561403, y: -1.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 492
+      width: 114
+      height: 114
+    spriteID: 94b6369f0eeeb0b4186521f3a0565c6b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -136, y: 354}
+  - name: AllHumanDeath_Frame_28
+    originalName: 
+    pivot: {x: 0.4561403, y: -1.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 614
+      width: 114
+      height: 114
+    spriteID: 9aadf1792959f9249be5383acec43e8a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -136, y: 476}
+  - name: AllHumanDeath_Frame_29
+    originalName: 
+    pivot: {x: 0.14814802, y: -4.7000003}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 74
+      y: 980
+      width: 27
+      height: 30
+    spriteID: 3e240420e4e24064c90195efef8a53d8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -114, y: 839}
+  - name: AllHumanDeath_Frame_30
+    originalName: 
+    pivot: {x: 0.14814802, y: -5.3333335}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 346
+      y: 325
+      width: 27
+      height: 27
+    spriteID: a0aff3dbd7b43d241a052646d6486e2e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 158, y: 181}
+  - name: AllHumanDeath_Frame_31
+    originalName: 
+    pivot: {x: 0.14814802, y: -5.111111}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 346
+      y: 360
+      width: 27
+      height: 27
+    spriteID: 0a16badd360e7234281c10add94a463a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 158, y: 222}
+  - name: AllHumanDeath_Frame_32
+    originalName: 
+    pivot: {x: 0.14814802, y: -5.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 346
+      y: 497
+      width: 27
+      height: 24
+    spriteID: 86f2308be62bcaf499ab738cb3e4263d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 158, y: 359}
+  - name: AllHumanDeath_Frame_33
+    originalName: 
+    pivot: {x: 0.41333327, y: -1.3939395}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 346
+      y: 218
+      width: 75
+      height: 99
+    spriteID: f84236b3061124b4583ee52c0b8397d4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 185, y: 80}
+  - name: AllHumanDeath_Frame_34
+    originalName: 
+    pivot: {x: 0.4252873, y: -1.3142858}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 242
+      y: 807
+      width: 87
+      height: 105
+    spriteID: 6400cc09830d34e4c81bd5a5000c24b0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 87, y: 669}
+  - name: AllHumanDeath_Frame_35
+    originalName: 
+    pivot: {x: 0.44791663, y: -1.2777778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 242
+      y: 352
+      width: 96
+      height: 108
+    spriteID: e34e8512d20075e4388a011c2b882787
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 93, y: 214}
+  - name: AllHumanDeath_Frame_36
+    originalName: 
+    pivot: {x: 0.45098037, y: -1.2432432}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 837
+      width: 102
+      height: 111
+    spriteID: 6470dd3430cbf104a80468ae62753d37
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -20, y: 699}
+  - name: AllHumanDeath_Frame_37
+    originalName: 
+    pivot: {x: 0.45370367, y: -1.2432432}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 361
+      width: 108
+      height: 111
+    spriteID: 248e988b0305e964285c53ea0699cc0c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -17, y: 223}
+  - name: AllHumanDeath_Frame_38
+    originalName: 
+    pivot: {x: 0.4561403, y: -1.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 736
+      width: 114
+      height: 114
+    spriteID: 046a0d9dcde487445aa16c44e0f24fbc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -136, y: 598}
+  - name: AllHumanDeath_Frame_39
+    originalName: 
+    pivot: {x: 0.4561403, y: -1.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 858
+      width: 114
+      height: 114
+    spriteID: f3eec839ce7918b4cbedcc6a6af56be2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -136, y: 720}
+  - name: AllHumanDeath_Frame_40
+    originalName: 
+    pivot: {x: 0.25925913, y: -4.7000003}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 956
+      width: 27
+      height: 30
+    spriteID: bd5fc5c4289e04247b47b1aa140f0656
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -59, y: 815}
+  - name: AllHumanDeath_Frame_41
+    originalName: 
+    pivot: {x: 0.25925913, y: -5.3333335}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 346
+      y: 395
+      width: 27
+      height: 27
+    spriteID: 0c47bbfac2c5d94418f394b2e9fc59ab
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 161, y: 251}
+  - name: AllHumanDeath_Frame_42
+    originalName: 
+    pivot: {x: 0.25925913, y: -5.111111}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 346
+      y: 430
+      width: 27
+      height: 27
+    spriteID: c4e8371cc615f8745bb4f70591f67c5a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 161, y: 292}
+  - name: AllHumanDeath_Frame_43
+    originalName: 
+    pivot: {x: 0.25925913, y: -5.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 346
+      y: 529
+      width: 27
+      height: 24
+    spriteID: 494aeeac33ec1274583d1a894240a2a5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 161, y: 391}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -243461264
+    name: AllHumanDeath
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: AllHumanDeath_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 384
+        height: 384
+      spriteId: 2ef280dfdddef0c47b5059d904988fba
+    - name: AllHumanDeath_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 0
+        y: 0
+        width: 384
+        height: 384
+      spriteId: 4dffa0440e51bb74f82613de3ce999ca
+    - name: AllHumanDeath_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 0
+        y: 0
+        width: 384
+        height: 384
+      spriteId: 8b00b591f8e7fb74a8cfb0570c935f2c
+    - name: AllHumanDeath_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 0
+        y: 0
+        width: 384
+        height: 384
+      spriteId: e88d17c082b19f04588eecbc7b4ca355
+    - name: AllHumanDeath_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 0
+        y: 0
+        width: 384
+        height: 384
+      spriteId: 9e327009eeb15b54882e206407aceab5
+    - name: AllHumanDeath_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 0
+        y: 0
+        width: 384
+        height: 384
+      spriteId: e6c058882414518498132b725f32b729
+    - name: AllHumanDeath_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 0
+        y: 0
+        width: 384
+        height: 384
+      spriteId: 1c068610612020446b7a581c862a9414
+    - name: AllHumanDeath_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 0
+        y: 0
+        width: 384
+        height: 384
+      spriteId: 957845c6d5792584d94407d10224eb19
+    - name: AllHumanDeath_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 0
+        y: 0
+        width: 384
+        height: 384
+      spriteId: b96d306f5991124499d8ec87ac013787
+    - name: AllHumanDeath_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 0
+        y: 0
+        width: 384
+        height: 384
+      spriteId: dd413095eb346cc42a6e15be0886fa8d
+    - name: AllHumanDeath_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 0
+        y: 0
+        width: 384
+        height: 384
+      spriteId: 0b33f42f83a8b774d89e50b3b3588765
+    - name: AllHumanDeath_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 0
+        y: 0
+        width: 384
+        height: 384
+      spriteId: 64cd75b82ab76f44680ac7195028d852
+    - name: AllHumanDeath_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 0
+        y: 0
+        width: 384
+        height: 384
+      spriteId: 0d7eda581ef5f8645afa4a1af38a6233
+    - name: AllHumanDeath_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 0
+        y: 0
+        width: 384
+        height: 384
+      spriteId: 5242bd5adda3b404fbaabacdb724bbaa
+    - name: AllHumanDeath_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 0
+        y: 0
+        width: 384
+        height: 384
+      spriteId: acc05065397f2bb4b9bc64a6bcea7c93
+    - name: AllHumanDeath_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 0
+        y: 0
+        width: 384
+        height: 384
+      spriteId: 3f1133c1fc57cc44cbb18ae32bdd8dbe
+    - name: AllHumanDeath_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 0
+        y: 0
+        width: 384
+        height: 384
+      spriteId: bc39b3c7c10779342b6c2d54390bd968
+    - name: AllHumanDeath_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 0
+        y: 0
+        width: 384
+        height: 384
+      spriteId: 78a34da1a6018c543b0e9359052d9f85
+    - name: AllHumanDeath_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 0
+        y: 0
+        width: 384
+        height: 384
+      spriteId: dc82434cd695f614eb0a84aaf77c2a2c
+    - name: AllHumanDeath_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 0
+        y: 0
+        width: 384
+        height: 384
+      spriteId: 44a837490f09132468d7fb89209c53a9
+    - name: AllHumanDeath_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 0
+        y: 0
+        width: 384
+        height: 384
+      spriteId: 81d68e259c5485b4a95460781bf962cd
+    - name: AllHumanDeath_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 0
+        y: 0
+        width: 384
+        height: 384
+      spriteId: 58d0dfc2c17b9064a80b3b1d90429722
+    - name: AllHumanDeath_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 0
+        y: 0
+        width: 384
+        height: 384
+      spriteId: dcaa6bf7a12315344b3521b187d7fd19
+    - name: AllHumanDeath_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 0
+        y: 0
+        width: 384
+        height: 384
+      spriteId: 9b251e38535a35346838fb9c5aa4abe7
+    - name: AllHumanDeath_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 0
+        y: 0
+        width: 384
+        height: 384
+      spriteId: 2fb05df2bded9de4182d3690cd757490
+    - name: AllHumanDeath_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 0
+        y: 0
+        width: 384
+        height: 384
+      spriteId: 22a761629d7b1b146b54fefbb700211f
+    - name: AllHumanDeath_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 0
+        y: 0
+        width: 384
+        height: 384
+      spriteId: a98c5d7a224a913499c2309b0b7f3294
+    - name: AllHumanDeath_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 0
+        y: 0
+        width: 384
+        height: 384
+      spriteId: 94b6369f0eeeb0b4186521f3a0565c6b
+    - name: AllHumanDeath_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 0
+        y: 0
+        width: 384
+        height: 384
+      spriteId: 9aadf1792959f9249be5383acec43e8a
+    - name: AllHumanDeath_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 0
+        y: 0
+        width: 384
+        height: 384
+      spriteId: 3e240420e4e24064c90195efef8a53d8
+    - name: AllHumanDeath_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 0
+        y: 0
+        width: 384
+        height: 384
+      spriteId: a0aff3dbd7b43d241a052646d6486e2e
+    - name: AllHumanDeath_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: 0
+        y: 0
+        width: 384
+        height: 384
+      spriteId: 0a16badd360e7234281c10add94a463a
+    - name: AllHumanDeath_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: 0
+        y: 0
+        width: 384
+        height: 384
+      spriteId: 86f2308be62bcaf499ab738cb3e4263d
+    - name: AllHumanDeath_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: 0
+        y: 0
+        width: 384
+        height: 384
+      spriteId: f84236b3061124b4583ee52c0b8397d4
+    - name: AllHumanDeath_Frame_34
+      frameIndex: 34
+      cellRect:
+        x: 0
+        y: 0
+        width: 384
+        height: 384
+      spriteId: 6400cc09830d34e4c81bd5a5000c24b0
+    - name: AllHumanDeath_Frame_35
+      frameIndex: 35
+      cellRect:
+        x: 0
+        y: 0
+        width: 384
+        height: 384
+      spriteId: e34e8512d20075e4388a011c2b882787
+    - name: AllHumanDeath_Frame_36
+      frameIndex: 36
+      cellRect:
+        x: 0
+        y: 0
+        width: 384
+        height: 384
+      spriteId: 6470dd3430cbf104a80468ae62753d37
+    - name: AllHumanDeath_Frame_37
+      frameIndex: 37
+      cellRect:
+        x: 0
+        y: 0
+        width: 384
+        height: 384
+      spriteId: 248e988b0305e964285c53ea0699cc0c
+    - name: AllHumanDeath_Frame_38
+      frameIndex: 38
+      cellRect:
+        x: 0
+        y: 0
+        width: 384
+        height: 384
+      spriteId: 046a0d9dcde487445aa16c44e0f24fbc
+    - name: AllHumanDeath_Frame_39
+      frameIndex: 39
+      cellRect:
+        x: 0
+        y: 0
+        width: 384
+        height: 384
+      spriteId: f3eec839ce7918b4cbedcc6a6af56be2
+    - name: AllHumanDeath_Frame_40
+      frameIndex: 40
+      cellRect:
+        x: 0
+        y: 0
+        width: 384
+        height: 384
+      spriteId: bd5fc5c4289e04247b47b1aa140f0656
+    - name: AllHumanDeath_Frame_41
+      frameIndex: 41
+      cellRect:
+        x: 0
+        y: 0
+        width: 384
+        height: 384
+      spriteId: 0c47bbfac2c5d94418f394b2e9fc59ab
+    - name: AllHumanDeath_Frame_42
+      frameIndex: 42
+      cellRect:
+        x: 0
+        y: 0
+        width: 384
+        height: 384
+      spriteId: c4e8371cc615f8745bb4f70591f67c5a
+    - name: AllHumanDeath_Frame_43
+      frameIndex: 43
+      cellRect:
+        x: 0
+        y: 0
+        width: 384
+        height: 384
+      spriteId: 494aeeac33ec1274583d1a894240a2a5
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 384, y: 384}

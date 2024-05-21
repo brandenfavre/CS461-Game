@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: df7fcd9bde2a2944b822109d7c68c7d7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - groundTile: {instanceID: 0}
+  - pitTile: {instanceID: 0}
+  - topWallTile: {instanceID: 0}
+  - botWallTile: {instanceID: 0}
+  - leftWallTile: {instanceID: 0}
+  - rightWallTile: {instanceID: 0}
+  - botLeftWallTile: {instanceID: 0}
+  - botRightWallTile: {instanceID: 0}
+  - topLeftWallTile: {instanceID: 0}
+  - topRightWallTile: {instanceID: 0}
+  - exitTile: {instanceID: 0}
+  - groundMap: {instanceID: 0}
+  - decorationMap: {instanceID: 0}
+  - pitMap: {instanceID: 0}
+  - wallMap: {instanceID: 0}
+  - player: {instanceID: 0}
+  - enemy: {instanceID: 0}
+  - exit: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
